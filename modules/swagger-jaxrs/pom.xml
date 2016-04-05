@@ -131,6 +131,7 @@
             <artifactId>swagger-core</artifactId>
             <version>${project.parent.version}</version>
         </dependency>
+        <!--
         <dependency>
             <groupId>${project.parent.groupId}</groupId>
             <artifactId>swagger-core</artifactId>
@@ -138,6 +139,7 @@
             <type>test-jar</type>
             <scope>test</scope>
         </dependency>
+        -->
         <dependency>
             <groupId>javax.servlet</groupId>
             <artifactId>servlet-api</artifactId>
